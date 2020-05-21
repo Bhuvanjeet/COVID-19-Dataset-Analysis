@@ -32,4 +32,4 @@ Number of hospital beds in each state in present in HospitalBedsIndia.csv file
 
 **This project is divided into two parts.**
 
-**This notebook is Part I and consists of Exploratory Data Analysis of the dataset.**
+**Part I consists of Exploratory Data Analysis of the dataset.**
