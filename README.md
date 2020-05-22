@@ -1,10 +1,16 @@
 # COVID-19-Dataset-Analysis
 
+https://colab.research.google.com/github/Bhuvanjeet/COVID-19-Dataset-Analysis/blob/master/covid19_eda.ipynb
+
+or
+
 https://drive.google.com/open?id=1q4kaZbKeacKWwxGb1BuKTa3r2eRSo0PE
 
-For plotly graphs and Javascript to run properly, kindly open the notebook in colaboratory by clicking the link above.
+For plotly graphs and Javascript to run properly, kindly open the notebook in colaboratory by clicking one of the links above.
 
-Since Github is static HTML, it does not show the visualizations made using plotly
+Since Github is static HTML, it does not show the visualizations made using plotly and live story visualizations. 
+
+Therefore, it is recommended to open it in colaboratory for better understanding.
 
 ## Context
 
